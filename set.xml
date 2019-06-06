@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- xml 수정할때마다 봇 프로그램 리부팅 필수!!! -->
+
+<!-- 윈섭 xml서버 링크 -->
+<winsubxml>http://real.winsub.kr/winsub.xml</winsubxml>
+
+<!-- 윈섭 서비스 -->
+<!-- 서비스 추가/제거 할때 마다 수정 필요 -->
+<!-- 없으면 x (소문자) 처리 -->
+
+<service1name>메인 페이지</service1name>
+<service1tag>mainpagesay</service1tag>
+
+<service2name>클라우드</service2name>
+<service2tag>cloudsay</service2tag>
+
+<service3name>내 아이피</service3name>
+<service3tag>myipsay</service3ag>
+
+<service4name>이미지호스팅</service4name>
+<service4tag>imgsay</service4tag>
+
+<service5name>x</service5name>
+<service5tag>x</service5tag>
+
+<service6name>x</service6name>
+<service6tag>x</service6tag>
+
+<service7name>x</service7name>
+<service7tag>x</service7tag>
+
+<service8name>x</service8name>
+<service8tag>x</service8tag>
+
+<service9name>x</service9name>
+<service9tag>x</service9tag>
+
+<service10name>x</service10name>
+<service10tag>x</service10tag>
+
+<service11name>x</service11name>
+<service11tag>x</service11tag>
+
+<service12name>x</service12name>
+<service12tag>x</service12tag>
+
+<service13name>x</service13name>
+<service13tag>x</service13tag>
+
+<service14name>x</service14name>
+<service14tag>x</service14tag>
+
+<service15name>x</service15name>
+<service15tag>x</service15tag>
